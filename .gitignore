@@ -1,0 +1,14 @@
+# Ignore all node_modules folders in all subdirectories
+**/node_modules/
+
+# Ignore build output
+**/build/
+**/dist/
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+*.log
+
+# dotenv files
+**/.env
